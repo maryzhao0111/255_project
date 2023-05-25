@@ -10,7 +10,7 @@ toc_sticky: true
 
 Looking for writing resources? You’re in luck! There're plenty of webpages and videos out there with helpful tips and tutorials. 
 
-Here, I take the writing center at Stanford as an example of a great resource and include a list of additional resources (papers, books, and videos) at the bottom.
+Here, I take the writing center at Stanford as an example of a great resource and include a list of additional resources at the bottom.
 
 ## Stanford Hume Center for Writing and Speaking
 
@@ -33,9 +33,9 @@ I can also speak from experience. Last year, when I was working on my PhD applic
 
 ## Additional Resources
 
+Books:
 1. Gastel, B., & Day, R. A. (2022). *How to write and publish a scientific paper.* ABC-CLIO.
-2. Huang, L. S. (2010). Seeing eye to eye? The academic writing needs of graduate and undergraduate students from students’ and instructors’ perspectives. *Language Teaching Research, 14*(4), 517-539.
-3. Saramäki, J. (2018). *How to Write a Scientific Paper: An Academic Self-Help Guide for PhD Students.* éditeur non identifié.
-4. Sword, H. (2012). *Stylish academic writing.* Harvard University Press.
+2. Saramäki, J. (2018). *How to Write a Scientific Paper: An Academic Self-Help Guide for PhD Students.* éditeur non identifié.
+3. Sword, H. (2012). *Stylish academic writing.* Harvard University Press.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nQsRvAVSVeM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
