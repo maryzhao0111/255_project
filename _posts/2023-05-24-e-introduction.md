@@ -8,7 +8,7 @@ toc: true
 toc_sticky: true
 ---
 
-What is academic writing? Is it important for you? Why?
+Are you an undergraduate or graduate student? Or a high school student who will go to a college or university soon? Are you dreaming about doing research and/or working in academia?
 
 ## Undergraduate Students
 
