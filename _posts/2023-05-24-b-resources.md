@@ -8,13 +8,8 @@ toc: true
 toc_sticky: true
 ---
 
-There're many resources out there. You can find planty of 
-
-## University Writing Centers
-
-### Stanford Hume Center for Writing and Speaking
-
-top 10
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rn3XUfC5WCY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+---
 
 ## Other Resources
 
