@@ -30,3 +30,4 @@ While there’re faster visa options available, such as investment and marriage,
 
 So, if you want to obtain an O-type visa, improving your academic writing skills and actively pursuing publishing opportunities will greatly increase your chances!
 
+<img src="https://cdn-bofje.nitrocdn.com/akABAREbMCBheLcAXBVEnlmzbXBTWhei/assets/images/optimized/rev-3d59f17/blog/wp-content/uploads/2015/10/united-states-visa-and-green-card.jpg">
