@@ -14,7 +14,9 @@ Are you an international student? English is not your first language? You find a
 
 These **challenges** faced by **non-native** English-speaking students have been **recognized and supported** by <a href="https://files.eric.ed.gov/fulltext/EJ1052831.pdf">data</a>.
 
-In another <a href="https://www.nature.com/articles/d41586-023-00241-8">article</a> written by <a href="https://www.nataliakucirkova.com/">Dr. Natalia I. Kucirkova</a>, she shared her experiences as a young immigrant woman working in academia. Dr. Kucirkova mentioned, *"Not being a native English speaker, I had to put in extra hours for each paper. The fear of being misunderstood by using the wrong word added to the stress of conference presentations and translated into regular pounding headaches and fatigue, which I still experience."*
+In another <a href="https://www.nature.com/articles/d41586-023-00241-8">article</a> written by <a href="https://www.nataliakucirkova.com/">Dr. Natalia I. Kucirkova</a>, she shared her experiences as a young immigrant woman working in academia. 
+
+Dr. Kucirkova mentioned, *"Not being a native English speaker, I had to put in extra hours for each paper. The fear of being misunderstood by using the wrong word added to the stress of conference presentations and translated into regular pounding headaches and fatigue, which I still experience."*
 
 But fear not, because there’re possible solutions for you! 
 
