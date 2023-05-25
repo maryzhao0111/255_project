@@ -12,7 +12,7 @@ Looking for writing resources? You’re in luck! There're plenty of webpages and
 
 ## Stanford Hume Center for Writing and Speaking
 
-The Hume Center of Writing and Speaking provides **free, individual consultations** for undergraduate and graduate students. 
+The <a href="https://hume.stanford.edu/">Hume Center for Writing and Speaking</a> provides **free, individual consultations** for undergraduate and graduate students. 
 
 They have a team of friendly and well-trained peer tutors, graduate tutors, and lecturers in the **Program in Writing and Rhetoric** (PWR) who hold thousands of tutorials every year covering a wide variety of writing assignments, presentations, and other projects. 
 
@@ -27,7 +27,7 @@ According to <a href="https://profiles.stanford.edu/zandra-jordan">**Dr. Zandra 
 
 When it comes to reasons for writing visits and the composition of their visitors, Dr. Jordan said, *“**PWR assignments** and **fellowship applications** are among the most frequent reasons”* and *“roughly **70 to 75%** of our visitors are **undergraduate students** and the rest graduate students”*.
 
-I can also speak from experience. Last year, when I was working on my PhD applications, I had the opportunity to have several in-person appointments with faculty members at the Hume Center. It was an invaluable experience that helped me improve my writing skills and very likely increased my chances of success in the application process.
+I can also speak from experience. Last year, when I was working on my PhD applications, I had the opportunity to have several in-person appointments with faculty members at the Hume Center. It was an invaluable experience that helped me improve my writing skills and very likely increased my chances of success in the application process - I'm now an admitted PhD student.
 
 ## Additional Resources
 
