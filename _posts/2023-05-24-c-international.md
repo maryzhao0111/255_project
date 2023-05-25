@@ -16,7 +16,7 @@ These **challenges** faced by **non-native** English-speaking students have been
 
 But fear not, because there’re solutions! 
 
-Some handy techniques can become your best friends. Tools that have a translation function like **online dictionaries**, **Google Translator**, and **ChatGPT** can help you understand English content better and also assist you in writing properly in English. Tools like **Grammarly** make sure your writing is mistake-free. But be critical, these techniques are not always correct.
+Some handy techniques can become your best friends. Tools that have a translation function like **online dictionaries**, **Google Translator**, and **ChatGPT** can help you understand English content better and also assist you in writing properly in English. Tools like **Grammarly** aim to make sure your writing is mistake-free. But be critical, these techniques are not always correct.
 
 Just remember, while these tools are helpful, they should only be used as **assistants**. *Don’t use AI (like ChatGPT) to generate ideas for you.* It’s cheating and **plagiarism**, and it’s harmful to your own growth!
 
