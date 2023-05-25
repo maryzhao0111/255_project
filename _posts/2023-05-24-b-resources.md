@@ -25,7 +25,7 @@ Whether you prefer **in-person** or **virtual** appointment-based tutorials, the
 
 <a href="https://hume.stanford.edu/writing/undergraduate-students/writing-and-speaking-tips-videos-frosh">Some examples of writing tips videos</a>
 
-According to <a href="https://profiles.stanford.edu/zandra-jordan">**Dr. Zandra L. Jordan**</a>, Director of the Hume Center, *“While the **fall** quarter is typically the busiest, the Center **remains active** throughout the academic year and summer.”*
+According to <a href="https://profiles.stanford.edu/zandra-jordan">Dr. Zandra L. Jordan</a>, Director of the Hume Center, *“While the **fall** quarter is typically the busiest, the Center **remains active** throughout the academic year and summer.”*
 
 When it comes to reasons for writing visits and the composition of their visitors, Dr. Jordan said, *“**PWR assignments** and **fellowship applications** are among the most frequent reasons”* and *“roughly **70 to 75%** of our visitors are **undergraduate students** and the rest graduate students”*.
 
