@@ -31,7 +31,7 @@ For international students who want to work and stay in the United States after 
 
 The most common route for international students to get a Green Card is through the H-1B visa. Typically, students begin with an F1 visa and OPT status after graduation. It can take months to years from F1 OPT to H-1B. And then months to years from H-1B to a Green Card. This process usually **takes years**, and it can be super long, sometimes even over a decade.
 
-While there’re faster visa options available, such as investment and marriage, if those don’t align with your goals, the **O-type visa** can be your choice. It can be much faster than the H-1B visa route but also comes with higher requirements. It requires quantifiable achievements like **the number of publications** and **the number of citations**. Specific criteria vary by discipline. 
+While there’re faster visa options available, such as investment and marriage, if those don’t align with your goals, the **O-type visa** can be your choice. It can be much faster than the H-1B visa route but also comes with higher requirements. It requires quantifiable achievements like the **number of publications** and the **number of citations**. Specific criteria vary by discipline. 
 
 So, if you want to obtain an O-type visa, improving your academic writing skills and actively pursuing publishing opportunities will greatly increase your chances!
 
