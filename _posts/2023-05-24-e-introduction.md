@@ -8,7 +8,7 @@ toc: true
 toc_sticky: true
 ---
 
-Are you a student? Whether you’re an undergraduate or graduate student or a high school student about to start your college journey. Do you ever dream of doing research or working in academia?
+Are you a **student**? Whether you’re an undergraduate or graduate student or a high school student about to start your college journey. Do you ever dream of doing **research** or working in **academia**?
 
 If you fall into any of the above categories, academic writing is something you need to pay attention to!
 
