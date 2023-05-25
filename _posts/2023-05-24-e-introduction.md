@@ -12,9 +12,10 @@ Are you a student? Whether you’re an undergraduate or graduate student or a hi
 
 If you fall into any of the above categories, academic writing is something you need to pay attention to!
 
-But what is academic writing? There are many definitions and explanations out there. Checkout this awesome YouTube video by EAPFoundation.com that gives a clear definition and introduction: *“Academic writing is writing which communicates ideas, information, and research to the wider academic community,”* which should be *“structured, evidenced, critical, precise, balanced, objective, and formal.”*
+But what is academic writing? There are many definitions and explanations out there. Checkout this awesome YouTube video by EAPFoundation.com that gives a clear definition and introduction: ***“Academic writing is writing which communicates ideas, information, and research to the wider academic community,”*** which should be ***“structured, evidenced, critical, precise, balanced, objective, and formal.”***
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Cq4J8bPBcck" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 Did you realize how much academic writing is a part of your life?
 
