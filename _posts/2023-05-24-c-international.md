@@ -20,7 +20,7 @@ Some handy techniques can become your best friends. Tools that have a translatio
 
 Just remember, while these tools are helpful, they should only be used as **assistants**. *Don’t use AI (like ChatGPT) to generate ideas for you.* It’s cheating and **plagiarism**, and it’s harmful to your own growth!
 
-**Talking to your professors** is always a great solution. Share your challenges and seek their advice. Besides, colleges and universities usually have **writing centers** and **international student centers**, which provide various types of help. Don’t hesitate to make an appointment with a **writing tuto**!
+**Talking to your professors** is always a great solution. Share your challenges and seek their advice. Besides, colleges and universities usually have **writing centers** and **international student centers**, which provide various types of help. Don’t hesitate to make an appointment with a **writing tutor**!
 
 ## Visa & Green Card
 
