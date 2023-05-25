@@ -18,7 +18,7 @@ But fear not, because there’re solutions!
 
 Some handy techniques can become your best friends. Tools that have a translation function like **online dictionaries**, **Google Translator**, and **ChatGPT** can help you understand English content better and also assist you in writing properly in English. Tools like **Grammarly** aim to make sure your writing is mistake-free. But be critical, these techniques are not always correct.
 
-Just remember, while these tools are helpful, they should only be used as **assistants**. *Don’t use AI (like ChatGPT) to generate ideas for you.* It’s cheating and **plagiarism**, and it’s harmful to your own growth!
+Just remember, while these tools are helpful, they should only be used as **assistants**. *Don’t use AI (like ChatGPT) to generate ideas or write for you.* It’s cheating and **plagiarism**, and it’s harmful to your own growth!
 
 **Talking to your professors and/or advisors** is always a great solution. Share your challenges and seek their advice. Besides, colleges and universities usually have **writing centers** and **international student centers**, which provide various types of help. Don’t hesitate to make an appointment with a **writing tutor**!
 
