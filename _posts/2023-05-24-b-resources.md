@@ -8,7 +8,11 @@ toc: true
 toc_sticky: true
 ---
 
-The Hume Center of Writing and Speaking provides free, individual consultations for undergraduate and graduate students. They have a team of friendly and well-trained peer tutors, graduate tutors, and lecturers in the Program in Writing and Rhetoric (PWR) who hold thousands of tutorials every year covering a wide variety of writing assignments, presentations, and other projects. Whether you prefer in-person or virtual appointment-based tutorials, they have you covered.
+Looking for writing resources? You’re in luck! There're plenty of webpages and videos out there with helpful tips and tutorials. Here, I take the writing center at Stanford as an example of a great resource and include a list of references at the bottom.
+
+## Stanford Hume Center for Writing and Speaking
+
+The Hume Center of Writing and Speaking provides **free, individual consultations** for undergraduate and graduate students. They have a team of friendly and well-trained peer tutors, graduate tutors, and lecturers in the **Program in Writing and Rhetoric** (PWR) who hold thousands of tutorials every year covering a wide variety of writing assignments, presentations, and other projects. Whether you prefer **in-person** or **virtual** appointment-based tutorials, they have you covered.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rn3XUfC5WCY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ---
