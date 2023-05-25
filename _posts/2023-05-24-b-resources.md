@@ -8,14 +8,17 @@ toc: true
 toc_sticky: true
 ---
 
-What is academic writing? Is it important for you? Why?
+There're many resources out there. You can find planty of 
 
 ## University Writing Centers
 
 ### Stanford Hume Center for Writing and Speaking
 
+top 10
+
 ## Other Resources
 
 1. Gastel, B., & Day, R. A. (2022). *How to write and publish a scientific paper.* ABC-CLIO.
-2. Saramäki, J. (2018). *How to Write a Scientific Paper: An Academic Self-Help Guide for PhD Students.* éditeur non identifié.
-3. Sword, H. (2012). *Stylish academic writing.* Harvard University Press.
+2. Huang, L. S. (2010). Seeing eye to eye? The academic writing needs of graduate and undergraduate students from students’ and instructors’ perspectives. *Language Teaching Research, 14*(4), 517-539.
+3. Saramäki, J. (2018). *How to Write a Scientific Paper: An Academic Self-Help Guide for PhD Students.* éditeur non identifié.
+4. Sword, H. (2012). *Stylish academic writing.* Harvard University Press.
