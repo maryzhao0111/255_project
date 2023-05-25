@@ -16,7 +16,7 @@ But what is academic writing?
 
 ## Introduction
 
-There are many definitions and explanations out there. Checkout this awesome YouTube video by EAPFoundation.com that gives a clear definition and introduction: ***“Academic writing is writing which communicates ideas, information, and research to the wider academic community,”*** which should be ***“structured, evidenced, critical, precise, balanced, objective, and formal.”***
+There are many definitions and explanations out there. Check out this awesome YouTube video by EAPFoundation.com that gives a clear definition and introduction: ***“Academic writing is writing which communicates ideas, information, and research to the wider academic community,”*** which should be ***“structured, evidenced, critical, precise, balanced, objective, and formal.”***
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Cq4J8bPBcck" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
