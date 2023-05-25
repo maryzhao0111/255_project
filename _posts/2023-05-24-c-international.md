@@ -25,7 +25,7 @@ Just remember, while these tools are helpful, they should only be used as **assi
 ## Visa & Green Card
 
 <img src="https://cdn-bofje.nitrocdn.com/akABAREbMCBheLcAXBVEnlmzbXBTWhei/assets/images/optimized/rev-3d59f17/blog/wp-content/uploads/2015/10/united-states-visa-and-green-card.jpg">
-<a href="https://www.fileright.com/blog/how-to-determine-the-difference-between-a-visa-and-a-green-card/">Source</a>
+<p style="text-align:center"><a href="https://www.fileright.com/blog/how-to-determine-the-difference-between-a-visa-and-a-green-card/">Source</a></p>
 
 For international students who want to work and stay in the United States after graduation, there is another reason why academic writing and publishing is important – it can be important when applying for certain types of visas that can lead to a US Green Card.
 
