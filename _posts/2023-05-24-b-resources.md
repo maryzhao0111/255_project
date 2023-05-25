@@ -8,7 +8,7 @@ toc: true
 toc_sticky: true
 ---
 
-Looking for writing resources? You’re in luck! There're plenty of webpages and videos out there with helpful tips and tutorials. Here, I take the writing center at Stanford as an example of a great resource and include a list of references at the bottom.
+Looking for writing resources? You’re in luck! There're plenty of webpages and videos out there with helpful tips and tutorials. Here, I take the writing center at Stanford as an example of a great resource and include a list of additional resources (books and papers) at the bottom.
 
 ## Stanford Hume Center for Writing and Speaking
 
@@ -29,9 +29,10 @@ When it comes to reasons for writing visits and the composition of their visitor
 
 I can also speak from experience. Last year, when I was working on my PhD applications, I had the opportunity to have several in-person appointments with faculty members at the Hume Center. It was an invaluable experience that helped me improve my writing skills and very likely increased my chances of success in the application process.
 
-## Other Resources
+## Additional Resources
 
 1. Gastel, B., & Day, R. A. (2022). *How to write and publish a scientific paper.* ABC-CLIO.
 2. Huang, L. S. (2010). Seeing eye to eye? The academic writing needs of graduate and undergraduate students from students’ and instructors’ perspectives. *Language Teaching Research, 14*(4), 517-539.
 3. Saramäki, J. (2018). *How to Write a Scientific Paper: An Academic Self-Help Guide for PhD Students.* éditeur non identifié.
 4. Sword, H. (2012). *Stylish academic writing.* Harvard University Press.
+
