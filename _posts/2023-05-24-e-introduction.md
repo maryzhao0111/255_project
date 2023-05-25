@@ -16,6 +16,7 @@ But what is academic writing? There are many definitions and explanations out th
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Cq4J8bPBcck" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+---
 
 Did you realize how much academic writing is a part of your life?
 
