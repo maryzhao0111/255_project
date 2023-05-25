@@ -12,7 +12,7 @@ toc_sticky: true
 
 Are you an international student? English is not your first language? You find academic writing a bit difficult? You’re not alone! 
 
-These challenges faced by non-native English-speaking students have been recognized and supported by <a href="https://files.eric.ed.gov/fulltext/EJ1052831.pdf">data</a>.
+These **challenges** faced by **non-native** English-speaking students have been **recognized and supported** by <a href="https://files.eric.ed.gov/fulltext/EJ1052831.pdf">data</a>.
 
 But fear not, because there’re solutions! 
 
