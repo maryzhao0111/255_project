@@ -27,7 +27,7 @@ According to <a href="https://profiles.stanford.edu/zandra-jordan">**Dr. Zandra 
 
 When it comes to reasons for writing visits and the composition of their visitors, Dr. Jordan said, *“PWR assignments and fellowship applications are among the most frequent reasons”* and *“roughly 70 to 75% of our visitors are undergraduate students and the rest graduate students”*.
 
-I can speak from experience. Last year, when I was working on my PhD applications, I had the opportunity to have several in-person appointments with faculty members at the Hume Center. It was an invaluable experience that helped me improve my writing skills and very likely increased my chances of success in the application process.
+I can also speak from experience. Last year, when I was working on my PhD applications, I had the opportunity to have several in-person appointments with faculty members at the Hume Center. It was an invaluable experience that helped me improve my writing skills and very likely increased my chances of success in the application process.
 
 ## Other Resources
 
